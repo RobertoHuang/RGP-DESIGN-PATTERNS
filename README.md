@@ -19,4 +19,20 @@
 
   ![策略模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.jpg)
 
+- 观察者模式
+
+  定义对象间一种一对多依赖关系，使得每当一个对象状态发生改变时其相关依赖对象皆得到通知并被自动更新
+
+  ![观察者模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
+
+
+
+## 结构性模式
+
+- 装饰器模式
+
+  动态的给一个对象添加一些额外的职责，就增加功能来说装饰器模式相比生成子类更为灵活
+
+  ![装饰模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.jpg)
+
 
