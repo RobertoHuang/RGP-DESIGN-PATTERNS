@@ -13,11 +13,10 @@
 
 ## 行为型模式
 
+- 策略模式
 
+  定义一组算法，将每个算法封装起来并且使它们之间可以相互转换
 
-### 策略模式
+  ![策略模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.jpg)
 
-定义一组算法，将每个算法封装起来并且使它们之间可以相互转换
-
-![策略模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.jpg)
 
