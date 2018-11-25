@@ -25,7 +25,11 @@
 
   ![观察者模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
 
+- 命令模式
 
+  将请求封装成一个对象从而让你使用不同的请求把客户端参数化，可以提命令的撤销和恢复功能
+
+  ![命令模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.jpg)
 
 ## 结构性模式
 
