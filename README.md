@@ -35,4 +35,12 @@
 
   ![装饰模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.jpg)
 
+## 创建型模式
 
+- 单例模式
+
+  确保某一个类只有一个实例，而且自行实例化并向整个系统提供这个实例
+
+  ![单例模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.jpg)
+
+- 
