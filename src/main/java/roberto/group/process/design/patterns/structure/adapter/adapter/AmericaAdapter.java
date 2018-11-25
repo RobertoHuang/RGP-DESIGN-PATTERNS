@@ -11,7 +11,7 @@ package roberto.group.process.design.patterns.structure.adapter.adapter;
 
 import lombok.extern.slf4j.Slf4j;
 import roberto.group.process.design.patterns.structure.adapter.adaptee.TwoPinSoket;
-import roberto.group.process.design.patterns.structure.adapter.target.ThreePinSoket;
+import roberto.group.process.design.patterns.structure.adapter.targets.ThreePinSoket;
 
 /**
  * 〈一句话功能简述〉<br> 
