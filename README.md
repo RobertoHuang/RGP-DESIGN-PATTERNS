@@ -58,3 +58,10 @@
   确保某一个类只有一个实例，而且自行实例化并向整个系统提供这个实例
 
   ![单例模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.jpg)
+
+- 工厂方法模式
+
+  定义一个用于创建对象的接口让子类决定实例化哪一个类，工厂方法使一个类的初始化延迟至其子类
+
+  ![工厂方法模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.jpg)
+
