@@ -51,6 +51,12 @@
 
 ## 创建型模式
 
+- 建造者模式
+
+  将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的对象
+
+  ![建造者模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
+
 - 单例模式
 
   确保某一个类只有一个实例，而且自行实例化并向整个系统提供这个实例
