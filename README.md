@@ -9,8 +9,6 @@
 - 迪米特法则 - `一个对象应该对其他对象有最少的了解【只和朋友交流，不和陌生人说话】`
 - 开闭原则 - `一个软件实体如类、模块和函数应该对对扩展开放对修改关闭，开闭原则也是其他五个原则的基石`
 
-
-
 ## 行为型模式
 
 - 策略模式
@@ -63,10 +61,10 @@
 
   定义一个用于创建对象的接口让子类决定实例化哪一个类，工厂方法使一个类的初始化延迟至其子类
 
-  ![工厂方法模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.jpg)
+  ![工厂方法模式](<https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.jpg>)
 
 - 抽象工厂模式
 
-  为创建一组相关或相互依赖的对象提供一个接口，而且无需指定他们的具体类
+  为创建一组相关或相互依赖的对象提供一个接口，而且无需指定他们的具体类【与工厂方法相比针对产品族】
 
-  ![抽象工厂模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.jpg)
+  ![抽象工厂模式](<https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.jpg>)
