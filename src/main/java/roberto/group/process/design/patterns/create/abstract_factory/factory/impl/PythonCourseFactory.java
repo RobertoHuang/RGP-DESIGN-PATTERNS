@@ -17,7 +17,7 @@ import roberto.group.process.design.patterns.create.abstract_factory.product.imp
 
 /**
  * 〈一句话功能简述〉<br> 
- * 〈Python课程工厂〉
+ * 〈Python课程工厂.〉
  *
  * @author HuangTaiHong
  * @create 2018/12/2

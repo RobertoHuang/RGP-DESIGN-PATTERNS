@@ -13,7 +13,7 @@ import roberto.group.process.design.patterns.create.abstract_factory.product.Art
 
 /**
  * 〈一句话功能简述〉<br> 
- * 〈JAVA手记〉
+ * 〈JAVA手记.〉
  *
  * @author HuangTaiHong
  * @create 2018/12/2

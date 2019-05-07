@@ -54,7 +54,6 @@ public class Course {
             return this;
         }
 
-
         public CourseBuilder buildCoursePPT(String coursePPT) {
             this.coursePPT = coursePPT;
             return this;

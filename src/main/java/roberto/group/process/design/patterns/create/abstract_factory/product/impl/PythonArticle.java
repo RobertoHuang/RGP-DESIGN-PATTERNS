@@ -13,7 +13,7 @@ import roberto.group.process.design.patterns.create.abstract_factory.product.Art
 
 /**
  * 〈一句话功能简述〉<br> 
- * 〈Python手记〉
+ * 〈Python手记.〉
  *
  * @author HuangTaiHong
  * @create 2018/12/2

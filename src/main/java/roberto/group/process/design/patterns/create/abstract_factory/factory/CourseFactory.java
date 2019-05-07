@@ -15,7 +15,7 @@ import roberto.group.process.design.patterns.create.abstract_factory.product.Vid
 
 /**
  * 〈一句话功能简述〉<br> 
- * 〈课程工厂类〉
+ * 〈课程工厂类.〉
  *
  * @author HuangTaiHong
  * @create 2018/12/2

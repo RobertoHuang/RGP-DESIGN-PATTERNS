@@ -11,7 +11,7 @@ package roberto.group.process.design.patterns.create.abstract_factory.product;
 
 /**
  * 〈一句话功能简述〉<br> 
- * 〈视频抽象类〉
+ * 〈视频抽象类.〉
  *
  * @author HuangTaiHong
  * @create 2018/12/2

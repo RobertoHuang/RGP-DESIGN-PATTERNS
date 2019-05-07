@@ -16,7 +16,7 @@ import roberto.group.process.design.patterns.create.abstract_factory.factory.imp
 
 /**
  * 〈一句话功能简述〉<br>
- * 〈测试类〉
+ * 〈测试类.〉
  *
  *  适用于:
  *      1.客户端(应用层)不依赖于产品类实例如何被创建、实现等细节
