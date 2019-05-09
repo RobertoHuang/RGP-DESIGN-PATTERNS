@@ -63,6 +63,12 @@
 
   ![单例模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.jpg)
 
+- 原型模式
+
+  作为一种快速创建大量相同或相似对象的方式
+
+  ![原型模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.jpg)
+
 - 工厂方法模式
 
   定义一个用于创建对象的接口让子类决定实例化哪一个类，工厂方法使一个类的初始化延迟至其子类
