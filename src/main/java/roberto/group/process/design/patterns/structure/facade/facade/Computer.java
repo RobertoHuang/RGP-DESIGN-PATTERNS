@@ -2,7 +2,7 @@
  * FileName: Computer
  * Author:   HuangTaiHong
  * Date:     2018/11/25 17:06
- * Description: Computer
+ * Description: computer.
  * History:
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
@@ -14,8 +14,7 @@ import roberto.group.process.design.patterns.structure.facade.subsystem.Disk;
 import roberto.group.process.design.patterns.structure.facade.subsystem.Memory;
 
 /**
- * 〈一句话功能简述〉<br> 
- * 〈Computer〉
+ * 〈computer.〉
  *
  * @author HuangTaiHong
  * @create 2018/11/25

@@ -45,7 +45,7 @@
 
 - 门面模式
 
-  外观模式提供一个高层次的接口，使得子系统更易于使用
+  外观模式通过引入一个外观角色来简化客户端与子系统之间的交互，使得子系统更易于使用
 
   ![门面模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.jpg)
 

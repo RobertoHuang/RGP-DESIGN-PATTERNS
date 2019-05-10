@@ -2,7 +2,7 @@
  * FileName: CPU
  * Author:   HuangTaiHong
  * Date:     2018/11/25 17:04
- * Description: CPU
+ * Description: CPU.
  * History:
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
@@ -12,8 +12,7 @@ package roberto.group.process.design.patterns.structure.facade.subsystem;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * 〈一句话功能简述〉<br> 
- * 〈CPU〉
+ * 〈CPU.〉
  *
  * @author HuangTaiHong
  * @create 2018/11/25
