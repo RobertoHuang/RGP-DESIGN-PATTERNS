@@ -2,7 +2,7 @@
  * FileName: Application
  * Author:   HuangTaiHong
  * Date:     2018/11/23 20:36
- * Description: 测试类
+ * Description: 测试类.
  * History:
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
@@ -16,8 +16,11 @@ import roberto.group.process.design.patterns.structure.decorator.decorator.impl.
 import roberto.group.process.design.patterns.structure.decorator.decorator.impl.Sugar;
 
 /**
- * 〈一句话功能简述〉<br>
- * 〈测试类〉
+ * 〈测试类.〉
+ *
+ *  装饰模式降低了系统的耦合度，可以动态增加或删除对象的职责
+ *
+ *  并使得需要装饰的具体构件类和具体装饰类可以独立变化，以便增加新的具体构件类和具体装饰类
  *
  * @author HuangTaiHong
  * @create 2018/11/23

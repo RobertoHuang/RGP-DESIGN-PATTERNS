@@ -2,7 +2,7 @@
  * FileName: Milk
  * Author:   HuangTaiHong
  * Date:     2018/11/23 20:32
- * Description: 牛奶
+ * Description: 牛奶.
  * History:
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
@@ -13,8 +13,7 @@ import roberto.group.process.design.patterns.structure.decorator.component.Drink
 import roberto.group.process.design.patterns.structure.decorator.decorator.CondimentDecorator;
 
 /**
- * 〈一句话功能简述〉<br>
- * 〈牛奶〉
+ * 〈牛奶.〉
  *
  * @author HuangTaiHong
  * @create 2018/11/23
