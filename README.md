@@ -53,7 +53,9 @@
 
 - 建造者模式
 
-  将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的对象【与工程模式相比建造者模式关注的是产品组装顺序，根据不同的组装顺序可能生产出不同的产品】
+  将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示【与工厂模式相比建造者模式关注的是产品组装顺序，根据不同的组装顺序可能生产出不同的产品】
+
+<div align=center><img src="https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.jpg"/></div>
 
   ![建造者模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
 
@@ -73,10 +75,10 @@
 
   定义一个用于创建对象的接口让子类决定实例化哪一个类，工厂方法使一个类的初始化延迟至其子类
 
-  ![工厂方法模式](<https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.jpg>)
+  ![工厂方法模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.jpg)
 
 - 抽象工厂模式
 
   为创建一组相关或相互依赖的对象提供一个接口，而且无需指定他们的具体类【与工厂方法相比针对产品族】
 
-  ![抽象工厂模式](<https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.jpg>)
+  ![抽象工厂模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.jpg)
