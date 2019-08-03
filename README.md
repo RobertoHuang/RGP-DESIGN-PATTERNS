@@ -35,7 +35,7 @@
 
   动态的给一个对象添加一些额外的职责，就增加功能来说装饰器模式相比生成子类更为灵活
 
-  ![装饰模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.jpg)
+  <div align=center><img src="https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.jpg"/></div>
 
 - 适配器模式
 
@@ -56,8 +56,6 @@
   将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示【与工厂模式相比建造者模式关注的是产品组装顺序，根据不同的组装顺序可能生产出不同的产品】
 
 <div align=center><img src="https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.jpg"/></div>
-
-  ![建造者模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DESIGN-PATTERNS/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.jpg)
 
 - 单例模式
 

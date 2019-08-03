@@ -18,6 +18,8 @@ import roberto.group.process.design.patterns.structure.decorator.decorator.impl.
 /**
  * 〈测试类.〉
  *
+ *  装饰模式是继承关系的一个替代方案，解决了类膨胀的问题
+ *
  *  装饰模式降低了系统的耦合度，可以动态增加或删除对象的职责
  *
  *  并使得需要装饰的具体构件类和具体装饰类可以独立变化，以便增加新的具体构件类和具体装饰类
