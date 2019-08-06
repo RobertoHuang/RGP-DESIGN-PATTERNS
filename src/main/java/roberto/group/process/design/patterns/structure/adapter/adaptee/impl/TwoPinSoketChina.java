@@ -13,8 +13,7 @@ import lombok.extern.slf4j.Slf4j;
 import roberto.group.process.design.patterns.structure.adapter.adaptee.TwoPinSoket;
 
 /**
- * 〈一句话功能简述〉<br> 
- * 〈中国两孔插座类〉
+ * 〈中国两孔插座类.〉
  *
  * @author HuangTaiHong
  * @create 2018/11/25

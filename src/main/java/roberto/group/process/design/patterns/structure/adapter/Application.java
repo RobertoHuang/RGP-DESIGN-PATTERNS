@@ -17,8 +17,13 @@ import roberto.group.process.design.patterns.structure.adapter.targets.ThreePinS
 import roberto.group.process.design.patterns.structure.adapter.targets.impl.ThreePinSoketAmerica;
 
 /**
- * 〈一句话功能简述〉<br>
- * 〈测试类〉
+ * 〈测试类.〉
+ *
+ *  将一个类的接口变换成客户端所期待的另一种接口
+ *  从而使原本因接口不不匹配而无法一起工作的两个类能够在一起工作
+ *
+ *  适配器模式分为类适配器和对象适配器模式，此例子为对象适配器模式
+ *  适配器模式是一个补偿模式，最好在详细设计阶段不要考虑它，它不是为了解决还处在开发阶段的问题，而是解决正在服役的项目问题
  *
  * @author HuangTaiHong
  * @create 2018/11/25
@@ -33,9 +38,11 @@ public class Application {
         rongYao.setTwoPinSoket(twoPinSoketChina);
         rongYao.chargeRequest();
 
-        // 然后坐飞机去美国旅游，美国某旅馆的墙上有只有一个三孔插座 通过美国适配器用三空插座充电
+        // 然后坐飞机去美国旅游，美国某旅馆的墙上有只有一个三孔插座
         ThreePinSoketAmerica threePinSoketAmerica = new ThreePinSoketAmerica();
         testThreePin(threePinSoketAmerica);
+
+        // 通过美国适配器用三空插座充电
         AmericaAdapter americaAdapter = new AmericaAdapter(threePinSoketAmerica);
         testTwoPin(americaAdapter);
         rongYao.setTwoPinSoket(americaAdapter);

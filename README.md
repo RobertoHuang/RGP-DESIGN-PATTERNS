@@ -41,7 +41,7 @@
 
   将一个类接口转成客户端期待的另一种接口，从而使本因接口不匹配而无法在一起工作的两个类能在一起工作
 
-  ![适配器模式](https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.jpg)
+  <div align=center><img src="https://raw.githubusercontent.com/RobertoHuang/RGP-DesignPatterns/master/%E7%9B%B8%E5%85%B3%E5%9B%BE%E7%89%87/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.jpg"/></div>
 
 - 门面模式
 

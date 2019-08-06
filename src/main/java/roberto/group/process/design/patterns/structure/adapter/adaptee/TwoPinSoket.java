@@ -10,8 +10,7 @@
 package roberto.group.process.design.patterns.structure.adapter.adaptee;
 
 /**
- * 〈一句话功能简述〉<br>
- * 〈两孔插座接口〉
+ * 〈两孔插座接口.〉
  *
  * @author HuangTaiHong
  * @create 2018/11/25

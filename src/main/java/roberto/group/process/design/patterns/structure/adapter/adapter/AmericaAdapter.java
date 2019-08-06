@@ -14,8 +14,7 @@ import roberto.group.process.design.patterns.structure.adapter.adaptee.TwoPinSok
 import roberto.group.process.design.patterns.structure.adapter.targets.ThreePinSoket;
 
 /**
- * 〈一句话功能简述〉<br> 
- * 〈美国适配器〉
+ * 〈美国适配器.〉
  *
  * @author HuangTaiHong
  * @create 2018/11/25
